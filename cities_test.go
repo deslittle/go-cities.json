@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	gocitiesjson "github.com/ringsaturn/go-cities.json"
+	gocitiesjson "github.com/deslittle/go-cities.json"
 )
 
 func TestInitFine(t *testing.T) {
